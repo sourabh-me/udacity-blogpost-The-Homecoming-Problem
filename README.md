@@ -26,11 +26,8 @@ Questions of interest:
 
 | File | Description |
 |---|---|
-| `ltch_homecoming_analysis.ipynb` | Main Jupyter notebook: full CRISP-DM workflow — EDA, measure-code mapping, cleaning rationale, cross-validated modeling, SHAP explainability, and the predictive scenario. |
-| `Long-Term_Care_Hospital-Provider_Data_Jun2026.csv` | Source data from Medicare Care Compare (data.cms.gov). |
-| `figures/` | Exported PNG charts (DTC distribution, correlation-with-outcome chart, infection SIR boxplots, state distribution, ROC/PR curves, SHAP plots). |
-| `BLOG_POST.md` | Non-technical blog post of the findings (publish to Medium/GitHub Pages). |
-| `BLOG_POST.pdf` | PDF version of the blog post with embedded figures. |
+| `code/The_Homecoming_Problem.ipynb` | Main Jupyter notebook: full CRISP-DM workflow — EDA, measure-code mapping, cleaning rationale, cross-validated modeling, SHAP explainability, and the predictive scenario. |
+| `dataset/Long-Term_Care_Hospital-Provider_Data_Jun2026.csv` | Source data from Medicare Care Compare (data.cms.gov). |
 | `README.md` | This file. |
 
 ## Summary of Results
